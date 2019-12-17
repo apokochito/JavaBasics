@@ -1,4 +1,4 @@
-# JavaServlet
+# Java Basics
 
 - Java Basics
 - Java Libraries
