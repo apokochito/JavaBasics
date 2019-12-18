@@ -10,7 +10,7 @@
 	- Constant
 	- Properties (java.util.Properties)
 	- MANIFEST file
-	- Jar files
+	- Jar file
 
 - **To generate and execute JAR file on Command Prompt**
 	
