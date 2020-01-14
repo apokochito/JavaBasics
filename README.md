@@ -1,8 +1,9 @@
 # Java Basics Repository
 
-### Java Basics (master branch) 
-
-- **Topics**
+1. Java Basics (**master branch**) 
+	
+	Topics
+	
 	- Hello World Java
 	- Class
 	- Interface
@@ -12,7 +13,7 @@
 	- MANIFEST file
 	- Jar file
 
-- **To generate and execute JAR file on Command Prompt**
+	To generate and execute JAR file on Command Prompt
 	
 	1. $cd src (Package in your project)
 	2. **COMPILE** all classes > javac com\java\basic\*.java
@@ -21,18 +22,18 @@
 	4. **CREATE JAR** > jar cvfm preferredNameForYourJarFile.jar packageRouteToManifestFile\MANIFEST.MF com\java\basic\*.class
 	5. **RUN JAR** > java -jar file.jar
 
-### Java Libraries
+2. Java Libraries (**libraries branch**)
 
-### Java Servlets
+3. Java Servlets (**servlet branch**)
 
-### Java Hibernate
+4. Java Hibernate (**hibernate branch**)
 
-### Java Threads
+5. Java Threads (**thread branch**)
 
-### Java Async
+6. Java Async (**async branch**)
 
-### Java Lambdas
+7. Java Lambdas (**lambdas branch**)
 
-### Java Fibers
+8. Java Fibers (**fibers branch**)
 
-### Java JDBC
+9. Java JDBC (**jdbc branch**)
