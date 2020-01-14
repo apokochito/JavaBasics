@@ -23,6 +23,17 @@
 	5. **RUN JAR** > java -jar file.jar
 
 2. Java Libraries (**libraries branch**)
+	
+	Topics
+	
+	- Standard libraries (lang, util, io, nio, math, net, swing, awt and sound)
+	- Apache commons ()
+	- Logging library ()
+	- JSON parsing library ()
+	- Unit Testing library ()
+	- XML parsing library ()
+	- Excel reading library ()
+	- Bytecode library ()
 
 3. Java Servlets (**servlet branch**)
 
