@@ -35,10 +35,6 @@
 	- Excel reading library ()
 	- Bytecode library ()
 
-3. Java Servlets (**servlet branch**)
-
-4. Java Hibernate (**hibernate branch**)
-
 5. Java Threads (**thread branch**)
 
 6. Java Async (**async branch**)
