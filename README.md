@@ -43,6 +43,4 @@
 
 8. Java Fibers (**fibers branch**)
 
-9. Java JDBC (**jdbc branch**)
-
-10. Java Reflection (**reflection branch**)
+9. Java Reflection (**reflection branch**)
