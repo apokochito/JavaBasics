@@ -1,6 +1,6 @@
 # Java Basics Repository
 
-1. Java Basics (**basics branch**) 
+1. Java Basics (**master branch**) 
 	
 	Topics
 	
